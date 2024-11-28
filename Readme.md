@@ -41,7 +41,6 @@ foi pedido um script para criar um array para armazenar as notas dos alunos e da
 
 Fiz uma funçao que calcula e exibe a média das notas de três alunos sendo eles: Paulo Cesar, Thiago e Roma. Para cada aluno, as notas sao armazenadas em um array dentro de um array. A funçao forEach é usada para percorrer as notas de cada aluno. A média é calculada somando todas as notas e dividindo pelo número total das notas. O resultado é exibido no console para cada aluno.
 
-- Para cada aluno, percorre-se as notas.
 - A média é calculada com reduce somando as notas e dividindo pela quantidade delas.
 - O valor da média é impresso no console.
 
