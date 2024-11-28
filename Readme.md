@@ -37,7 +37,7 @@ Eu criei uma função chamada gerenciarEstoque que começa com um array chamado 
 
 ## exercicio 03
 
-foi pedido um script para criar um array para armazenar numeros dos alunos e dar a media final de todos usando um loop e exibir o numero de cada aluno.
+foi pedido um script para criar um array para armazenar as notas dos alunos e dar a media final de todos usando um loop e exibir a nota de cada aluno no console.
 
 Fiz uma funçao que calcula e exibe a média das notas de três alunos sendo eles: Paulo Cesar, Thiago e Roma. Para cada aluno, as notas sao armazenadas em um array dentro de um array. A funçao forEach é usada para percorrer as notas de cada aluno. A média é calculada somando todas as notas e dividindo pelo número total das notas. O resultado é exibido no console para cada aluno.
 
